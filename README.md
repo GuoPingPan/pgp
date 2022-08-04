@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoPingPan&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoPingPan&hide=contribs&icon_color=ffffff&title_color=2edeff&text_color=ffffff&hide_border&show_icons=true&bg_color=45,1d679d,26819e,32a2a0,3cbda1,41c9a1 )](https://github.com/anuraghazra/github-readme-stats)
